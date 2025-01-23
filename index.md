@@ -2,10 +2,6 @@
 layout: default
 ---
 
-# MSCA Subcarb project
-
-Welcome to the website for the Marie Skłodowska-Curie Actions Subcarb project.
-
 ## About the Project
 Despite containing the vast majority of carbon on the planet, the Earth’s subsurface represents a mostly uncharacterized frontier for biogeochemistry and microbial ecology. While carbon fixation at the Earth’s surface has been drawing a lot of attention for decades, subsurface carbon fixation remains poorly understood.
 
