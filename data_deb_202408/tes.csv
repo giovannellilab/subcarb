@@ -1,0 +1,208 @@
+,pathway,name,EC
+0,3HBC,malonyl-CoA reductase / 3-hydroxypropionate dehydrogenase (NADP+),1.1.1.298
+1,3HBC,malonyl-CoA reductase / 3-hydroxypropionate dehydrogenase (NADP+),1.2.1.75
+2,3HBC,acrylyl-CoA reductase (NADPH) / 3-hydroxypropionyl-CoA dehydratase / 3-hydroxypropionyl-CoA synthetase,1.3.1.84
+3,3HBC,succinate dehydrogenase,1.3.5.1
+4,3HBC,succinyl-CoA:(S)-malate CoA transferase,2.8.3.-
+5,3HBC,succinyl-CoA:(S)-malate CoA-transferase subunit A,2.8.3.22
+6,3HBC,malyl-CoA/(S)-citramalyl-CoA lyase,4.1.3.24
+7,3HBC,malyl-CoA/(S)-citramalyl-CoA lyase,4.1.3.25
+8,3HBC,acrylyl-CoA reductase (NADPH) / 3-hydroxypropionyl-CoA dehydratase / 3-hydroxypropionyl-CoA synthetase,4.2.1.116
+9,3HBC,2-methylfumaryl-CoA hydratase,4.2.1.148
+10,3HBC,3-methylfumaryl-CoA hydratase,4.2.1.153
+11,3HBC,fumarate hydratase,4.2.1.2
+12,3HBC,methylmalonyl-CoA epimerase,5.1.99.1
+13,3HBC,2-methylfumaryl-CoA isomerase,5.4.1.3
+14,3HBC,methylmalonyl-CoA mutase,5.4.99.2
+15,3HBC,acrylyl-CoA reductase (NADPH) / 3-hydroxypropionyl-CoA dehydratase / 3-hydroxypropionyl-CoA synthetase,6.2.1.36
+16,3HBC,acetyl-CoA carboxylase carboxyl transferase,6.4.1.2
+17,3HBC,propionyl-CoA carboxylase,6.4.1.3
+18,C1,glycerate dehydrogenase,1.1.1.29
+19,C1,lanthanide-dependent methanol,1.1.2.10
+20,C1,methanol dehydrogenase ,1.1.2.7
+21,C1,methane monooxygenase,1.14.13.25
+22,C1,methane/ammonia monooxygenase,1.14.18.3
+23,C1,methane/ammonia monooxygenase,1.14.99.39
+24,C1,formate dehydrogenase,1.17.1.9
+25,C1,formate dehydrogenase,1.17.98.3
+26,C1,formate dehydrogenase,1.17.98.4 
+27,C1,glycine hydroxymethyltransferase,2.1.2.1
+28,C1,dihydroxyacetone synthase,2.2.1.3
+29,C1,alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase,2.6.1.44
+30,C1,alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase,2.6.1.45
+31,C1,alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase,2.6.1.51
+32,C1,glycerate 2-kinase,2.7.1.165
+33,C1,triose/dihydroxyacetone kinase / FAD-AMP lyase ,2.7.1.28
+34,C1,triose/dihydroxyacetone kinase / FAD-AMP lyase ,2.7.1.29
+35,C1,3-hexulose-6-phosphate synthase,4.1.2.43
+36,C1,bifunctional enzyme Fae/Hps,4.2.1.147
+37,C1,triose/dihydroxyacetone kinase / FAD-AMP lyase ,4.6.1.15
+38,C1,6-phospho-3-hexuloisomerase,5.3.1.27
+39,C1,malate-CoA ligase ,6.2.1.9
+40,C4,malate dehydrogenase,1.1.1.82
+41,CAM,malate dehydrogenase,1.1.1.39
+42,CAM,malate dehydrogenase,1.1.1.40
+43,CBB,glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),1.2.1.12
+44,CBB,glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),1.2.1.13
+45,CBB,glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),1.2.1.59
+46,CBB,transketolase,2.2.1.1
+47,CBB,phosphoribulokinase,2.7.1.19
+48,CBB,phosphoglycerate kinase,2.7.2.3
+49,CBB,"fructose-1,6-bisphosphatase",3.1.3.11
+50,CBB,sedoheptulose-bisphosphatase,3.1.3.37
+51,CBB,ribulose-bisphosphate carboxylase,4.1.1.39
+52,CBB,fructose-bisphosphate aldolase,4.1.2.13
+53,CBB,ribulose-phosphate 3-epimerase,5.1.3.1
+54,CBB,ribose 5-phosphate isomerase,5.3.1.6
+55,DCHB,succinate semialdehyde reductase (NADPH),1.1.1.-
+56,DCHB,3-hydroxybutyryl-CoA dehydratase / 3-hydroxyacyl-CoA dehydrogenase,1.1.1.35
+57,DCHB,malate dehydrogenase,1.1.1.37
+58,DCHB,succinyl-CoA reductase,1.2.1.76
+59,DCHB,pyruvate ferredoxin oxidoreductase,1.2.7.1
+60,DCHB,succinate dehydrogenase / fumarate reductase,1.3.5.1
+61,DCHB,succinate dehydrogenase / fumarate reductase,1.3.5.4
+62,DCHB,acetyl-CoA C-acetyltransferase,2.3.1.9
+63,DCHB,"pyruvate, water dikinase",2.7.9.2
+64,DCHB,phosphoenolpyruvate carboxylase,4.1.1.31
+65,DCHB,4-hydroxybutyryl-CoA dehydratase,4.2.1.120
+66,DCHB,3-hydroxybutyryl-CoA dehydratase / 3-hydroxyacyl-CoA dehydrogenase,4.2.1.17
+67,DCHB,fumarate hydratase,4.2.1.2
+68,DCHB,4-hydroxybutyrate---CoA ligase (AMP-forming),6.2.1.40
+69,DCHB,succinyl-CoA synthetase,6.2.1.5
+70,Gluconeogenesis,pyruvate dehydrogenase E1 component,1.2.4.1
+71,Gluconeogenesis,pyruvate dehydrogenase E2 component ,2.3.1.12
+72,Gluconeogenesis,glyceraldehyde 3-phosphate dehydrogenase,1.2.1.12
+73,Gluconeogenesis,glyceraldehyde 3-phosphate dehydrogenase,1.2.1.59
+74,Gluconeogenesis,phosphoglycerate kinase,2.7.2.3
+75,Gluconeogenesis,"fructose-1,6-bisphosphatase",3.1.3.11
+76,Gluconeogenesis,phosphoenolpyruvate carboxykinase,4.1.1.32
+77,Gluconeogenesis,phosphoenolpyruvate carboxykinase,4.1.1.49
+78,Gluconeogenesis,fructose-bisphosphate aldolase,4.1.2.13
+79,Gluconeogenesis,enolase,4.2.1.11
+80,Gluconeogenesis,triosephosphate isomerase,5.3.1.1
+81,Gluconeogenesis,phosphoglycerate mutase,5.4.2.11
+82,Gluconeogenesis,phosphoglycerate mutase,5.4.2.12
+83,Glycolysis,pyruvate dehydrogenase E1 component,1.2.4.1
+84,Glycolysis,pyruvate dehydrogenase E2 component ,2.3.1.12
+85,Glycolysis,glyceraldehyde 3-phosphate dehydrogenase,1.2.1.12
+86,Glycolysis,glyceraldehyde 3-phosphate dehydrogenase,1.2.1.59
+87,Glycolysis,glyceraldehyde-3-phosphate dehydrogenase (ferredoxin),1.2.7.6
+88,Glycolysis,hexokinase/glucokinase,2.7.1.1
+89,Glycolysis,6-phosphofructokinase,2.7.1.11
+90,Glycolysis,ADP-dependent phosphofructokinase,2.7.1.146
+91,Glycolysis,ADP-dependent glucokinase,2.7.1.147
+92,Glycolysis,hexokinase/glucokinase,2.7.1.2
+93,Glycolysis,pyruvate kinase,2.7.1.40
+94,Glycolysis,polyphosphate glucokinase,2.7.1.63
+95,Glycolysis,phosphoglycerate kinase,2.7.2.3
+96,Glycolysis,fructose-bisphosphate aldolase,4.1.2.13
+97,Glycolysis,enolase,4.2.1.11
+98,Glycolysis,triosephosphate isomerase,5.3.1.1
+99,Glycolysis,glucose-6-phosphate isomerase,5.3.1.9
+100,Glycolysis,phosphoglycerate mutase,5.4.2.11
+101,Glycolysis,phosphoglycerate mutase,5.4.2.12
+102,Glycolysis,L-lactate dehydrogenase,1.1.1.27
+103,Glycolysis,acetate---CoA ligase (ADP-forming),6.2.1.13
+104,HPHB,succinate semialdehyde reductase,1.1.1.-
+105,HPHB,3-hydroxypropionate dehydrogenase (NADP+),1.1.1.298
+106,HPHB,3-hydroxybutyryl-CoA dehydratase / 3-hydroxyacyl-CoA dehydrogenase,1.1.1.35
+107,HPHB,malonyl-CoA reductase (NADPH),1.2.1.75
+108,HPHB,succinyl-coA reductase,1.2.1.76
+109,HPHB,acryloyl-coenzyme A reductase,1.3.1.84
+110,HPHB,acetyl-CoA C-acetyltransferase,2.3.1.9
+111,HPHB,3-hydroxypropionyl-coenzyme A dehydratase,4.2.1.116
+112,HPHB,4-hydroxybutyryl-CoA dehydratase / vinylacetyl-CoA-Delta-isomerase,4.2.1.120
+113,HPHB,3-hydroxybutyryl-CoA dehydratase / 3-hydroxyacyl-CoA dehydrogenase,4.2.1.17
+114,HPHB,methylmalonyl-CoA epimerase,5.1.99.1
+115,HPHB,4-hydroxybutyryl-CoA dehydratase / vinylacetyl-CoA-Delta-isomerase,5.3.3.3
+116,HPHB,methylmalonyl-CoA mutase,5.4.99.2
+117,HPHB,3-hydroxypropionyl-coenzyme A synthetase,6.2.1.36
+118,HPHB,4-hydroxybutyrate---CoA ligase (AMP-forming),6.2.1.40
+119,HPHB,acetyl-CoA/propionyl-CoA carboxylase,6.4.1.2
+120,HPHB,acetyl-CoA/propionyl-CoA carboxylase,6.4.1.3
+121,InrTCA,fumarate reductase (CoM/CoB),1.3.4.1
+122,Methanogenesis,"5,10-methenyltetrahydromethanopterin hydrogenase",1.12.98.2
+123,Methanogenesis,formylmethanofuran dehydrogenase,1.2.7.12
+124,Methanogenesis,formylmethanofuran dehydrogenase,1.2.99.5
+125,Methanogenesis,methylenetetrahydromethanopterin dehydrogenase,1.5.98.1
+126,Methanogenesis,"5,10-methylenetetrahydromethanopterin reductase",1.5.98.2
+127,Methanogenesis,"coenzyme F420-dependent N5,N10-methenyltetrahydromethanopterin reductase",1.5.99.11
+128,Methanogenesis,methylenetetrahydromethanopterin dehydrogenase,1.5.99.9
+129,Methanogenesis,heterodisulfide reductase 1,1.8.7.3
+130,Methanogenesis,heterodisulfide reductase,1.8.98.1
+131,Methanogenesis,heterodisulfide reductase 2,1.8.98.4
+132,Methanogenesis,F420-non-reducing hydrogenase,1.8.98.5
+133,Methanogenesis,formate dehydrogenase (coenzyme F420),1.8.98.6
+134,Methanogenesis,methyl-Co(III) methanol/glycine betaine-specific corrinoid protein]:coenzyme M methyltransferase,2.1.1.246
+135,Methanogenesis,methyl-Co(III) methanol/glycine betaine-specific corrinoid protein]:coenzyme M methyltransferase,2.1.1.377
+136,Methanogenesis,tetrahydromethanopterin S-methyltransferase,2.1.1.86
+137,Methanogenesis,acetyl-CoA decarbonylase/synthase complex,2.3.1.-
+138,Methanogenesis,formylmethanofuran--tetrahydromethanopterin N-formyltransferase,2.3.1.101
+139,Methanogenesis,phosphate acetyltransferase,2.3.1.8
+140,Methanogenesis,acetate kinase,2.7.2.1
+141,Methanogenesis,methyl-coenzyme M reductase,2.8.4.1
+142,Methanogenesis,methenyltetrahydromethanopterin cyclohydrolase,3.5.4.27
+143,Methanogenesis,acetyl-CoA synthetase,6.2.1.1
+144,Methanogenesis,tetrahydromethanopterin S-methyltransferase,7.2.1.4
+145,PPP,glucose-6-phosphate 1-dehydrogenase,1.1.1.363
+146,PPP,glucose-6-phosphate 1-dehydrogenase,1.1.1.49
+147,PPP,(iso)eugenol O-methyltransferase,2.1.1.146
+148,PPP,transketolase,2.2.1.1
+149,PPP,transaldolase,2.2.1.2
+150,PPP,6-phosphofructokinase,2.7.1.11
+151,PPP,"fructose-1,6-bisphosphatase",3.1.3.11
+152,PPP,fructose-bisphosphate aldolase,4.1.2.13
+153,PPP,3-hexulose-6-phosphate synthase,4.1.2.43
+154,PPP,6-phospho-3-hexuloisomerase ,5.3.1.27
+155,PPP,ribose 5-phosphate isomerase,5.3.1.6
+156,PPP,glucose-6-phosphate isomerase,5.3.1.9
+157,rTCA,malate dehydrogenase,1.1.1.37
+158,rTCA,isocitrate dehydrogenase,1.1.1.42
+159,rTCA,pyruvate-ferredoxin/flavodoxin oxidoreductase,1.2.7.-
+160,rTCA,pyruvate:ferredoxin oxidoreductase,1.2.7.1
+161,rTCA,2-oxoglutarate:ferredoxin oxidoreductase,1.2.7.3
+162,rTCA,NADH-dependent fumarate reductase,1.3.1.6
+163,rTCA,succinate dehydrogenase / fumarate reductase,1.3.5.1
+164,rTCA,succinate dehydrogenase / fumarate reductase,1.3.5.4
+165,rTCA,ATP-citrate lyase,2.3.3.8
+166,rTCA,"pyruvate,orthophosphate dikinase",2.7.9.1
+167,rTCA,"pyruvate,water dikinase",2.7.9.2
+168,rTCA,phosphoenolpyruvate carboxylase,4.1.1.31
+169,rTCA,citryl-CoA lyase,4.1.3.34
+170,rTCA,fumarate hydratase,4.2.1.2
+171,rTCA,aconitate hydratase,4.2.1.3
+172,rTCA,citryl-CoA synthetase,6.2.1.18
+173,rTCA,succinyl-CoA synthetase,6.2.1.5
+174,rTCA,pyruvate carboxylase,6.4.1.1
+175,TCA,isocitrate--homoisocitrate dehydrogenase,1.1.1.286
+176,TCA,malate dehydrogenase,1.1.1.37
+177,TCA,isocitrate dehydrogenase,1.1.1.41
+178,TCA,isocitrate dehydrogenase,1.1.1.42
+179,TCA,malate dehydrogenase (quinone),1.1.5.4
+180,TCA,2-oxoglutarate dehydrogenase complex,1.2.4.2
+181,TCA,2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha,1.2.7.11
+182,TCA,2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha,1.2.7.3
+183,TCA,fumarate reductase,1.3.2.4
+184,TCA,succinate dehydrogenase,1.3.5.1
+185,TCA,fumarate reductase,1.3.5.4
+186,TCA,2-oxoglutarate dehydrogenase complex,1.8.1.4
+187,TCA,2-oxoglutarate dehydrogenase complex,2.3.1.61
+188,TCA,citrate synthase,2.3.3.1
+189,TCA,citrate (Re)-synthase,2.3.3.3
+190,TCA,succinyl-CoA:acetate CoA-transferase,2.8.3.18
+191,TCA,fumarate hydratase,4.2.1.2
+192,TCA,aconitate hydratase,4.2.1.3
+193,TCA,succinyl-CoA synthetase,6.2.1.4
+194,TCA,succinyl-CoA synthetase,6.2.1.5
+195,WL,formate dehydrogenase,1.17.1.10
+196,WL,formate dehydrogenase,1.17.98.-
+197,WL,carbon-monoxide dehydrogenase,1.2.7.4
+198,WL,methylenetetrahydrofolate reductase (NADPH),1.5.1.20
+199,WL,methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase,1.5.1.5
+200,WL,methylenetetrahydrofolate reductase,1.5.1.54
+201,WL,"acetyl-CoA decarbonylase/synthase, CODH/ACS complex",2.1.1.245
+202,WL,5-methyltetrahydrofolate corrinoid/iron sulfur protein methyltransferase,2.1.1.258
+203,WL,acetyl-CoA decarbonylase/synthase complex,2.3.1.-
+204,WL,acetyl-CoA synthase,2.3.1.169
+205,WL,methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase,3.5.4.9
+206,WL,formate--tetrahydrofolate ligase,6.3.4.3
