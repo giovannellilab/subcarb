@@ -35,7 +35,7 @@ These questions are relevant not only to microbiology and Earth system science, 
 - biotechnology,
 - and the search for life beyond Earth.
 
-![Deep Biosphere Concept](images/deep_biosphere_concept.jpg)
+![Deep Biosphere Concept](assets/images/deep_biosphere_concept.jpg)
 
 ---
 
@@ -99,6 +99,8 @@ The common thread is understanding how life adapts carbon assimilation to changi
 
 ## About Benoît de Pins
 
+![Benoit Portrait](assets/images/bdp.jpg)
+
 Benoît de Pins is a Marie Skłodowska-Curie Postdoctoral Fellow working at the interface between:
 - biochemistry,
 - microbial ecology,
@@ -119,8 +121,6 @@ His current work explores how subsurface microbial metabolisms influence global 
 
 - LinkedIn: https://it.linkedin.com/in/benoit-de-pins-2b4433156
 - Fondation Bettencourt Schueller: https://www.fondationbs.org/en/our-community/laureates-and-projects/benoit-de-pins
-
-![Benoit Portrait](images/bdp.jpg)
 
 ---
 
