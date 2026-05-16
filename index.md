@@ -102,7 +102,7 @@ The common thread is understanding how life adapts carbon assimilation to changi
 ## About Benoît de Pins
 
 <p align="center">
-  <img src="assets/images/bdp.jpg" alt="Benoit De Pins" style="max-width:700px; width:100%;">
+  <img src="assets/images/bdp.jpg" alt="Benoit De Pins" style="max-width:300px; width:100%;">
 </p>
 
 Benoît de Pins is a Marie Skłodowska-Curie Postdoctoral Fellow working at the interface between:
@@ -172,8 +172,8 @@ openly available to the scientific community.
 SUBCARB is funded by the European Union thorugh a Marie Skłodowska-Curie Actions Postdoctoral Fellowship (Grant Agreement No. 101154017; HORIZON-MSCA-2023-PF-01 project SUBCARB) under the European Union’s Horizon Europe programme, and hosted at the Department of Biology of the University of Naples Federico II.
 
 
-<p align="center">
-  <img src="assets/images/msca.jpg" alt="Deep Biosphere Concept" style="max-width:300px; width:100%;">
+<p align="left">
+  <img src="assets/images/msca.jpg" alt="MSCA Logo" style="max-width:200px; width:100%;">
 </p>
 
 
