@@ -35,7 +35,9 @@ These questions are relevant not only to microbiology and Earth system science, 
 - biotechnology,
 - and the search for life beyond Earth.
 
-![Deep Biosphere Concept](assets/images/deep_biosphere_concept.jpg)
+<p align="center">
+  <img src="assets/images/deep_biosphere_concept.jpg" alt="Deep Biosphere Concept" style="max-width:1024px; width:100%;">
+</p>
 
 ---
 
@@ -99,7 +101,9 @@ The common thread is understanding how life adapts carbon assimilation to changi
 
 ## About Benoît de Pins
 
-![Benoit Portrait](assets/images/bdp.jpg)
+<p align="center">
+  <img src="assets/images/bdp.jpg" alt="Benoit De Pins" style="max-width:700px; width:100%;">
+</p>
 
 Benoît de Pins is a Marie Skłodowska-Curie Postdoctoral Fellow working at the interface between:
 - biochemistry,
@@ -167,7 +171,10 @@ openly available to the scientific community.
 
 SUBCARB is funded by the European Union thorugh a Marie Skłodowska-Curie Actions Postdoctoral Fellowship (Grant Agreement No. 101154017; HORIZON-MSCA-2023-PF-01 project SUBCARB) under the European Union’s Horizon Europe programme, and hosted at the Department of Biology of the University of Naples Federico II.
 
-![Benoit Portrait](images/msca.jpg)
+
+<p align="center">
+  <img src="assets/images/msca.jpg" alt="Deep Biosphere Concept" style="max-width:300px; width:100%;">
+</p>
 
 
 ### Host Institution
